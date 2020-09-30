@@ -12,7 +12,7 @@ for(i in 1:50){
   
 }
 
-#cars_linked<-as.tibble(cars_linked)
+
 
 flats_links <- c()
 #i<-1
